@@ -7,18 +7,19 @@ h1{
 }
 .chicken{
 	background-color: pink;
-	font-size:10px;
+	font-size: 80%;
+
 }
 .beap{
 	background-color: maroon;
 	opacity: 0.6;
-	color:white;
-	font-size:10px;
+	color: white;
+	font-size: 80%;
 }
 .sushi{
 	background-color: yellow;
 	opacity: 0.6;
-	font-size:10px;
+	font-size: 80%;
 }
 
 		
@@ -92,7 +93,8 @@ h1{
 	}
 	.section-title{
 		width: 40%;
-		padding-left: 10px;
+		
+		text-align: center;
 	}
 	
 }
